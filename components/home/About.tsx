@@ -15,7 +15,7 @@ export default function About() {
         <div className="group overflow-hidden rounded-3xl shadow-2xl ring-1 ring-yellow-500/20">
 
           <Image
-            src="/banner.png"
+            src="/Banner.png"
             alt="Vận hạn 2026"
             width={1920}
             height={700}
